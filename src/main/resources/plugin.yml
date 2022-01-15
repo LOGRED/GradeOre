@@ -1,0 +1,8 @@
+name: GradeOre
+version: '${project.version}'
+main: org.logsh.gradeore.GradeOre
+api-version: 1.18
+commands:
+  Ore:
+    description:  Ore Command !
+    usage: /<command>
